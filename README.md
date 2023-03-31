@@ -1,1 +1,1 @@
-# nuxt-chat
+# mevn-chat
